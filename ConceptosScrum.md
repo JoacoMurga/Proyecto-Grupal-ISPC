@@ -1,5 +1,4 @@
-# Proyecto-Grupal-ISPC
-Proyecto grupal
+# Scrum
 
 ![Esta es una imagen](https://miro.medium.com/max/1200/1*9y2sMFou3w-FjWBVt_2ibA.png)
 
