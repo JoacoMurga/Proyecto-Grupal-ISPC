@@ -2,4 +2,4 @@
 Proyecto grupal
 ## Ceremonias de Scrum
 ### Sprint Planning Meeting 
-Es una reunión de planificación donde están presentes el Product Owner, el Scrum Master y el Development team(equipo de desarrollo). Tiene como objetivo inspeccionar el Product Backlog y priorizar las tareas a realizar en el Sprint.
+Es una reunión de Scrum que ocurre al comienzo de una nueva planificación donde están presentes el Product Owner, el Scrum Master y el Development team(equipo de desarrollo). Tiene como objetivo inspeccionar el Product Backlog y priorizar las tareas a realizar en el Sprint.
