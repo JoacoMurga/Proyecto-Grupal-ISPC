@@ -28,3 +28,13 @@ Un Product Backlog contiene distintos elementos:
 - Historias de usuario: una forma de expresar elementos de un Product Backlog. Para obtener el máximo valor de una historia de usuarios es necesario expresarlas desde el punto de vista del usuario.
 - Tareas técnicas
 - Trabajo de investigación
+
+
+## Roles en Scrum
+Un rol es definido como la función que una persona desempeña en un lugar o en una situación. En Scrum hay tres roles principales.
+
+- Product owner: Es el responsable de el producto, de definir y priorizar temas y objetivos con criterios de aceptacion, el qué. Puede ser un cliente externo, un miembro de la organizacion, un cliente interno.
+
+- Team o equipo: Equipo multidisciplinario que llevan adelante el desarrollo del proyecto.
+
+- Scrum Master o facilitador: Nexo entre el product owner y el equipo. Actúa como un líder servicial, ayudando al equipo y a la organización a usar lo mejor posible  la Metodología Scrum.
