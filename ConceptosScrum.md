@@ -34,11 +34,17 @@ Un Product Backlog contiene distintos elementos:
 Un rol es definido como la función que una persona desempeña en un lugar o en una situación. En Scrum hay tres roles principales.
 
 - Product owner: Es el responsable de el producto, de definir y priorizar temas y objetivos con criterios de aceptacion, el qué. Puede ser un cliente externo, un miembro de la organizacion, un cliente interno. El Product owner sera el encargado del contacto con los stakeholders, en donde debera explicarles y trasnsmitirles cual es el valor del producto en el que estan invirtiendo. En este sentido podemos decir que el Product owner se encarga de gestionar prioridades, es el representante del proyecto y aport valor al mismo.
+El Product owner también es responsable de la gestión efectiva del Product Backlog, lo que incluye:
+* Desarrollar y comunicar explícitamente el Objetivo del Producto;
+* Crear y comunicar claramente los elementos del Product Backlog;
+* Ordenar los elementos del Product Backlog; y,
+* Asegurarse de que el Product Backlog sea transparente, visible y se entienda.
+Todas estas tareas pueden ser efectuadas por el Product owner, o bien delegarlas a otras personas, pero el responsable del cumplimiento de las mismas sera el Product owner.
 
 - Scrum Master o facilitador: Nexo entre el product owner y el equipo. Actúa como un líder servicial, ayudando al equipo y a la organización a usar lo mejor posible  la Metodología Scrum. El Scrum Master tiene dos funciones principales dentro del marco de trabajo: gestionar el proceso Scrum y ayudar a eliminar impedimentos que puedan afectar a la entrega del producto.
 Gestionar el proceso Scrum: el Scrum Master se encarga de gestionar y asegurar que el proceso Scrum se lleva a cabo correctamente, así como de facilitar la ejecución del proceso y sus mecánicas.
 Eliminar impedimentos: esta función del Scrum Master indica la necesidad de ayudar a eliminar progresiva y constantemente impedimentos que van surgiendo en la organización y que afectan a su capacidad para entregar valor.
-El Scrum master debe ser el encargado del porque el Scrum se lleva adelante, comunicando los beneficios a la organizacion y ayudando a la implementacion del mismo.
+El Scrum master debe ser el encargado del porque el Scrum se lleva adelante, comunicando los beneficios a la organizacion y ayudando a la implementacion del mismo. 
 
 - Team o equipo: Equipo multidisciplinario que llevan adelante el desarrollo del proyecto. Estos se encargan de desarrollar el producto, auto-organizándose y auto-gestionándose para conseguir entregar un incremento de software al final del ciclo de desarrollo. Es importnte que cada integrante del equipo conozca su rol, independientemente de cuantos integrantes tenga el equipo y cual sea su rol interno, Habitualmente son equipos "cross-funcional", capaces de generar un incremento terminado de principio a fin, sin otras dependencias externas.
 
