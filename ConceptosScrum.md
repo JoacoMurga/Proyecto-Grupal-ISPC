@@ -35,10 +35,10 @@ Un rol es definido como la función que una persona desempeña en un lugar o en 
 
 - Product owner: Es el responsable de el producto, de definir y priorizar temas y objetivos con criterios de aceptacion, el qué. Puede ser un cliente externo, un miembro de la organizacion, un cliente interno. El Product owner sera el encargado del contacto con los stakeholders, en donde debera explicarles y trasnsmitirles cual es el valor del producto en el que estan invirtiendo. En este sentido podemos decir que el Product owner se encarga de gestionar prioridades, es el representante del proyecto y aport valor al mismo.
   El Product owner tambien es el responsable de la gestion efectiva del Product backlog, esto quiere decir que debera:
-- desarrollar y comunicar el objetivo del producto
-- crear y comunicar claramene los elementos del product backlog
-- ordenar los elementos del product backlog
-- asegurarse de que el product backlog sea transparente, visible y entendible.
+* desarrollar y comunicar el objetivo del producto
+* crear y comunicar claramene los elementos del product backlog
+* ordenar los elementos del product backlog
+* asegurarse de que el product backlog sea transparente, visible y entendible.
 Todas estas tareas pueden ser efectuadas por el Product owner, o bien delegarlas a otras personas, pero el responsable del cumplimiento de las mismas sera el Product owner.
 
 - Scrum Master o facilitador: Nexo entre el product owner y el equipo. Actúa como un líder servicial, ayudando al equipo y a la organización a usar lo mejor posible  la Metodología Scrum. El Scrum Master tiene dos funciones principales dentro del marco de trabajo: gestionar el proceso Scrum y ayudar a eliminar impedimentos que puedan afectar a la entrega del producto.
