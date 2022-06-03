@@ -34,6 +34,7 @@ Un Product Backlog contiene distintos elementos:
 Un rol es definido como la función que una persona desempeña en un lugar o en una situación. En Scrum hay tres roles principales.
 
 - Product owner: Es el responsable de el producto, de definir y priorizar temas y objetivos con criterios de aceptacion, el qué. Puede ser un cliente externo, un miembro de la organizacion, un cliente interno. El Product owner sera el encargado del contacto con los stakeholders, en donde debera explicarles y trasnsmitirles cual es el valor del producto en el que estan invirtiendo. En este sentido podemos decir que el Product owner se encarga de gestionar prioridades, es el representante del proyecto y aport valor al mismo.
+
   El Product owner también es responsable de la gestión efectiva del Product Backlog, lo que incluye:
 * Desarrollar y comunicar explícitamente el Objetivo del Producto;
 * Crear y comunicar claramente los elementos del Product Backlog;
