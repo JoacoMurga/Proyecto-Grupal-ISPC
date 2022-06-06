@@ -15,8 +15,7 @@ Cada persona debe de forma concisa y concreta responder las siguiente preguntas:
 Se produce al finalizar el Sprint y tiene por objeto mostrar qué es lo que se ha completado y qué no. Debe estar presente el
 Product Owner.
 ### Sprint Retrospective Meeting. 
-Se produce también al finalizar el Sprint y tiene por objeto documentar qué ha funcionado y qué no ha funcionado
-en el Sprint. La idea de dicha reunión es centrar al equipo en lo que salió bien y en lo que se debe mejorar para la próxima iteración. De ninguna manera se centra en lo que salió mal.
+Se realiza al finalizar cada sprint y su objetivo es registrar que funciono y que no en el proceso. Su intención es mejorar la productividad del equipo. 
 
 
 ## Artefactos en Scrum
