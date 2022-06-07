@@ -35,6 +35,14 @@ Un Product Backlog contiene distintos elementos:
 - Trabajo de investigación
 
 
+### Sprint Backlog
+El Sprint Backlog es la suma de el Objetivo del Sprint, los elementos del Product Backlog elegidos para el Sprint, más un plan de acción de cómo crear el Incremento de Producto.
+
+Es uno de los 3 artefactos de Scrum y se construye durante el evento del Sprint Planning. Es un plan realizado por y para los Developers.
+
+El equipo generalmente divide el trabajo en elementos llamados Sprint Backlog Ítems (SBI). Estos elementos pueden representar tareas que el equipo debe completar, bloques de construcción intermedios que se combinan en una entrega, o cualquier otra unidad de trabajo que ayude al equipo a comprender cómo lograr el Sprint Goal dentro del Sprint.
+
+
 ## Roles en Scrum
 Un rol es definido como la función que una persona desempeña en un lugar o en una situación. En Scrum hay tres roles principales.
 
