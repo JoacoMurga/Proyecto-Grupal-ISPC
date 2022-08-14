@@ -1,6 +1,6 @@
 Dueno2 = [23546987,  "Maria",  "Perez", 4789689,  "Pueyrredon  811"]
 
-for i in range(1, 5):
+for i in range(1, len(Dueno2)):
     if i == 0 or i == 2:
         continue
     print(Dueno2[i], end="\n")
